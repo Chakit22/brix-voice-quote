@@ -15,7 +15,8 @@ export default function MicButton({ onTranscript, disabled }: MicButtonProps) {
   const [interim, setInterim] = useState('');
   const [supported, setSupported] = useState(true);
   const [manualText, setManualText] = useState('');
-  const recognitionRef = useRef<SpeechRecognition | null>(null);
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const recognitionRef = useRef<any>(null);
 
   const startListening = useCallback(() => {
     const SpeechRecognition = (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
@@ -29,7 +30,7 @@ export default function MicButton({ onTranscript, disabled }: MicButtonProps) {
     recognition.interimResults = true;
     recognition.lang = 'en-AU';
 
-    recognition.onresult = (event: SpeechRecognitionEvent) => {
+    recognition.onresult = (event: any) => {
       let finalTranscript = '';
       let interimTranscript = '';
       for (let i = event.resultIndex; i < event.results.length; i++) {
