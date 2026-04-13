@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# brix Voice-to-Quote
+
+AI-powered HVAC quoting tool. Speak a job description, get instant Good/Better/Best quote options.
+
+## How It Works
+
+1. **Voice Input** — Technician describes the job via microphone (Web Speech API) or picks a sample prompt
+2. **AI Extraction** — Gemini AI parses the raw transcript into structured fields (brand, system type, issues, services needed, urgency)
+3. **Query Reformulation** — The LLM generates an optimized search query using HVAC industry terminology
+4. **RAG Retrieval** — Query is embedded via `gemini-embedding-001` and matched against a pre-embedded service catalog using cosine similarity (0.7 threshold)
+5. **Quote Generation** — Matched services and extraction are sent to Gemini to compose three pricing tiers (Good/Better/Best) with line items, parts, labour, and GST
+
+## Tech Stack
+
+- **Framework**: Next.js 16 (App Router)
+- **AI**: Google Gemini 2.5 Flash + Gemini Embedding 001
+- **UI**: MUI v9 + Emotion (dark theme, purple & black)
+- **Language**: TypeScript
+- **Deployment**: Vercel
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js 20+
+- A [Google AI Studio](https://aistudio.google.com) API key
+
+### Setup
+
+```bash
+npm install
+```
+
+Create a `.env.local` file:
+
+```
+GEMINI_API_KEY=your-api-key-here
+```
+
+### Run
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Embed Catalog
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+If you modify `data/hvac-catalog.json`, regenerate embeddings:
 
-## Learn More
+```bash
+npx tsx scripts/embed-catalog.mts
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project Structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+app/
+  api/generate-quote/   # POST endpoint — extraction, retrieval, quote generation
+  page.tsx              # Main UI — voice input, results display
+  theme.ts              # MUI theme (purple & black)
+  providers.tsx         # ThemeProvider wrapper
+  layout.tsx            # Root layout with DM Sans font
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+components/
+  Header.tsx            # App bar with branding
+  MicButton.tsx         # Voice input with Web Speech API
+  TranscriptDisplay.tsx # Shows transcript, reformatted query, extracted details
+  QuoteCard.tsx         # Good/Better/Best tier cards
+  LoadingState.tsx      # Skeleton loading
 
-## Deploy on Vercel
+lib/
+  extract.ts            # Gemini extraction prompt (HVAC-only validation)
+  quote.ts              # Gemini quote generation prompt
+  embeddings.ts         # Cosine similarity search with 0.7 threshold
+  gemini.ts             # Google GenAI client
+  types.ts              # TypeScript interfaces
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+data/
+  hvac-catalog.json     # Service catalog (base prices, parts, labour rates)
+  catalog-embedded.json # Pre-computed embeddings for catalog
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+scripts/
+  embed-catalog.mts     # Script to generate catalog embeddings
+```
+
+## Deploy
+
+```bash
+vercel --prod
+```
+
+Set `GEMINI_API_KEY` in Vercel Environment Variables before deploying.
