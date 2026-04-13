@@ -1,0 +1,1728 @@
+[
+  {
+    "id": "001",
+    "name": "Split System Install - Daikin",
+    "description": "Supply and install Daikin split system air conditioner",
+    "brand": "Daikin",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 5,
+    "parts_cost": 1800,
+    "labour_rate": 110,
+    "total_price": 2350
+  },
+  {
+    "id": "002",
+    "name": "Ducted System Install - Daikin",
+    "description": "Supply and install Daikin ducted reverse cycle system",
+    "brand": "Daikin",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "ductwork",
+      "grilles",
+      "thermostat"
+    ],
+    "estimated_hours": 12,
+    "parts_cost": 5500,
+    "labour_rate": 120,
+    "total_price": 6940
+  },
+  {
+    "id": "003",
+    "name": "Multi-Split System Install - Daikin",
+    "description": "Supply and install Daikin multi-split system with 2 indoor heads",
+    "brand": "Daikin",
+    "category": "install",
+    "parts": [
+      "2x indoor units",
+      "outdoor unit",
+      "piping kit",
+      "brackets"
+    ],
+    "estimated_hours": 8,
+    "parts_cost": 3200,
+    "labour_rate": 115,
+    "total_price": 4120
+  },
+  {
+    "id": "004",
+    "name": "Cassette Unit Install - Daikin",
+    "description": "Supply and install Daikin ceiling cassette unit",
+    "brand": "Daikin",
+    "category": "install",
+    "parts": [
+      "cassette unit",
+      "outdoor unit",
+      "ceiling frame",
+      "piping"
+    ],
+    "estimated_hours": 7,
+    "parts_cost": 2800,
+    "labour_rate": 120,
+    "total_price": 3640
+  },
+  {
+    "id": "005",
+    "name": "Wall Mounted Unit Install - Daikin",
+    "description": "Install customer-supplied Daikin wall mounted unit",
+    "brand": "Daikin",
+    "category": "install",
+    "parts": [
+      "piping kit",
+      "bracket",
+      "electrical"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 250,
+    "labour_rate": 110,
+    "total_price": 690
+  },
+  {
+    "id": "006",
+    "name": "Compressor Replacement - Daikin",
+    "description": "Replace faulty compressor on Daikin system",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "compressor",
+      "refrigerant",
+      "filter drier"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 950,
+    "labour_rate": 130,
+    "total_price": 1470
+  },
+  {
+    "id": "007",
+    "name": "Condenser Coil Replacement - Daikin",
+    "description": "Replace corroded or damaged condenser coil on Daikin outdoor unit",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "condenser coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 650,
+    "labour_rate": 120,
+    "total_price": 1010
+  },
+  {
+    "id": "008",
+    "name": "Evaporator Coil Replacement - Daikin",
+    "description": "Replace leaking evaporator coil on Daikin indoor unit",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "evaporator coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 700,
+    "labour_rate": 120,
+    "total_price": 1180
+  },
+  {
+    "id": "009",
+    "name": "PCB Board Replacement - Daikin",
+    "description": "Replace faulty control board on Daikin unit",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "PCB board"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 380,
+    "labour_rate": 110,
+    "total_price": 545
+  },
+  {
+    "id": "010",
+    "name": "Fan Motor Replacement - Daikin",
+    "description": "Replace indoor or outdoor fan motor on Daikin system",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "fan motor",
+      "capacitor"
+    ],
+    "estimated_hours": 2,
+    "parts_cost": 280,
+    "labour_rate": 110,
+    "total_price": 500
+  },
+  {
+    "id": "011",
+    "name": "Capacitor Replacement - Daikin",
+    "description": "Replace run or start capacitor on Daikin outdoor unit",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "capacitor"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 45,
+    "labour_rate": 100,
+    "total_price": 145
+  },
+  {
+    "id": "012",
+    "name": "Refrigerant Leak Repair - Daikin",
+    "description": "Locate and repair refrigerant leak on Daikin system",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "refrigerant",
+      "brazing supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 180,
+    "labour_rate": 120,
+    "total_price": 540
+  },
+  {
+    "id": "013",
+    "name": "Refrigerant Recharge - Daikin",
+    "description": "Top up refrigerant gas on Daikin air conditioning system",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "refrigerant R32/R410A"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 120,
+    "labour_rate": 110,
+    "total_price": 285
+  },
+  {
+    "id": "014",
+    "name": "Thermostat Replacement - Daikin",
+    "description": "Replace faulty wall controller or thermostat for Daikin system",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "thermostat/controller"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 220,
+    "labour_rate": 100,
+    "total_price": 320
+  },
+  {
+    "id": "015",
+    "name": "Drainage Repair - Daikin",
+    "description": "Clear blocked condensate drain and repair drainage on Daikin unit",
+    "brand": "Daikin",
+    "category": "repair",
+    "parts": [
+      "drain fittings",
+      "PVC pipe"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 35,
+    "labour_rate": 100,
+    "total_price": 185
+  },
+  {
+    "id": "016",
+    "name": "Split System Replacement - Daikin",
+    "description": "Remove old unit and replace with new Daikin split system",
+    "brand": "Daikin",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 6,
+    "parts_cost": 2000,
+    "labour_rate": 115,
+    "total_price": 2690
+  },
+  {
+    "id": "017",
+    "name": "Ducted System Replacement - Daikin",
+    "description": "Remove and replace entire Daikin ducted system including ductwork",
+    "brand": "Daikin",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "ductwork",
+      "grilles"
+    ],
+    "estimated_hours": 16,
+    "parts_cost": 6000,
+    "labour_rate": 125,
+    "total_price": 8000
+  },
+  {
+    "id": "018",
+    "name": "Outdoor Unit Replacement - Daikin",
+    "description": "Replace Daikin outdoor condenser unit only",
+    "brand": "Daikin",
+    "category": "replace",
+    "parts": [
+      "outdoor unit",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 1400,
+    "labour_rate": 120,
+    "total_price": 1880
+  },
+  {
+    "id": "019",
+    "name": "Annual Service - Daikin",
+    "description": "Full annual service and inspection of Daikin air conditioning system",
+    "brand": "Daikin",
+    "category": "maintenance",
+    "parts": [
+      "filter",
+      "cleaning supplies"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 30,
+    "labour_rate": 95,
+    "total_price": 173
+  },
+  {
+    "id": "020",
+    "name": "Deep Clean Service - Daikin",
+    "description": "Deep chemical clean of indoor and outdoor units for Daikin system",
+    "brand": "Daikin",
+    "category": "maintenance",
+    "parts": [
+      "coil cleaner",
+      "sanitiser",
+      "filters"
+    ],
+    "estimated_hours": 2.5,
+    "parts_cost": 55,
+    "labour_rate": 100,
+    "total_price": 305
+  },
+  {
+    "id": "021",
+    "name": "Filter Replacement - Daikin",
+    "description": "Replace air filters on Daikin system",
+    "brand": "Daikin",
+    "category": "maintenance",
+    "parts": [
+      "air filter"
+    ],
+    "estimated_hours": 0.5,
+    "parts_cost": 25,
+    "labour_rate": 90,
+    "total_price": 70
+  },
+  {
+    "id": "022",
+    "name": "Gas Top Up - Daikin",
+    "description": "Check and top up refrigerant levels on Daikin system",
+    "brand": "Daikin",
+    "category": "maintenance",
+    "parts": [
+      "refrigerant"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 80,
+    "labour_rate": 100,
+    "total_price": 180
+  },
+  {
+    "id": "023",
+    "name": "Duct Cleaning - Daikin",
+    "description": "Professional clean of ductwork for Daikin ducted system",
+    "brand": "Daikin",
+    "category": "maintenance",
+    "parts": [
+      "cleaning supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 40,
+    "labour_rate": 100,
+    "total_price": 340
+  },
+  {
+    "id": "024",
+    "name": "Pre-Purchase Inspection - Daikin",
+    "description": "Comprehensive inspection of existing Daikin system for property purchase",
+    "brand": "Daikin",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1.5,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 143
+  },
+  {
+    "id": "025",
+    "name": "Diagnostic Inspection - Daikin",
+    "description": "Fault finding and diagnostic assessment of Daikin system not working",
+    "brand": "Daikin",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 110,
+    "total_price": 110
+  },
+  {
+    "id": "026",
+    "name": "Warranty Inspection - Daikin",
+    "description": "Inspection under Daikin manufacturer warranty claim",
+    "brand": "Daikin",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 95
+  },
+  {
+    "id": "027",
+    "name": "Compliance Check - Daikin",
+    "description": "Safety and compliance inspection of Daikin installation",
+    "brand": "Daikin",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 100,
+    "total_price": 100
+  },
+  {
+    "id": "028",
+    "name": "Split System Install - Fujitsu",
+    "description": "Supply and install Fujitsu split system air conditioner",
+    "brand": "Fujitsu",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 5,
+    "parts_cost": 1800,
+    "labour_rate": 110,
+    "total_price": 2350
+  },
+  {
+    "id": "029",
+    "name": "Ducted System Install - Fujitsu",
+    "description": "Supply and install Fujitsu ducted reverse cycle system",
+    "brand": "Fujitsu",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "ductwork",
+      "grilles",
+      "thermostat"
+    ],
+    "estimated_hours": 12,
+    "parts_cost": 5500,
+    "labour_rate": 120,
+    "total_price": 6940
+  },
+  {
+    "id": "030",
+    "name": "Multi-Split System Install - Fujitsu",
+    "description": "Supply and install Fujitsu multi-split system with 2 indoor heads",
+    "brand": "Fujitsu",
+    "category": "install",
+    "parts": [
+      "2x indoor units",
+      "outdoor unit",
+      "piping kit",
+      "brackets"
+    ],
+    "estimated_hours": 8,
+    "parts_cost": 3200,
+    "labour_rate": 115,
+    "total_price": 4120
+  },
+  {
+    "id": "031",
+    "name": "Cassette Unit Install - Fujitsu",
+    "description": "Supply and install Fujitsu ceiling cassette unit",
+    "brand": "Fujitsu",
+    "category": "install",
+    "parts": [
+      "cassette unit",
+      "outdoor unit",
+      "ceiling frame",
+      "piping"
+    ],
+    "estimated_hours": 7,
+    "parts_cost": 2800,
+    "labour_rate": 120,
+    "total_price": 3640
+  },
+  {
+    "id": "032",
+    "name": "Wall Mounted Unit Install - Fujitsu",
+    "description": "Install customer-supplied Fujitsu wall mounted unit",
+    "brand": "Fujitsu",
+    "category": "install",
+    "parts": [
+      "piping kit",
+      "bracket",
+      "electrical"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 250,
+    "labour_rate": 110,
+    "total_price": 690
+  },
+  {
+    "id": "033",
+    "name": "Compressor Replacement - Fujitsu",
+    "description": "Replace faulty compressor on Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "compressor",
+      "refrigerant",
+      "filter drier"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 950,
+    "labour_rate": 130,
+    "total_price": 1470
+  },
+  {
+    "id": "034",
+    "name": "Condenser Coil Replacement - Fujitsu",
+    "description": "Replace corroded or damaged condenser coil on Fujitsu outdoor unit",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "condenser coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 650,
+    "labour_rate": 120,
+    "total_price": 1010
+  },
+  {
+    "id": "035",
+    "name": "Evaporator Coil Replacement - Fujitsu",
+    "description": "Replace leaking evaporator coil on Fujitsu indoor unit",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "evaporator coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 700,
+    "labour_rate": 120,
+    "total_price": 1180
+  },
+  {
+    "id": "036",
+    "name": "PCB Board Replacement - Fujitsu",
+    "description": "Replace faulty control board on Fujitsu unit",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "PCB board"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 380,
+    "labour_rate": 110,
+    "total_price": 545
+  },
+  {
+    "id": "037",
+    "name": "Fan Motor Replacement - Fujitsu",
+    "description": "Replace indoor or outdoor fan motor on Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "fan motor",
+      "capacitor"
+    ],
+    "estimated_hours": 2,
+    "parts_cost": 280,
+    "labour_rate": 110,
+    "total_price": 500
+  },
+  {
+    "id": "038",
+    "name": "Capacitor Replacement - Fujitsu",
+    "description": "Replace run or start capacitor on Fujitsu outdoor unit",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "capacitor"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 45,
+    "labour_rate": 100,
+    "total_price": 145
+  },
+  {
+    "id": "039",
+    "name": "Refrigerant Leak Repair - Fujitsu",
+    "description": "Locate and repair refrigerant leak on Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "refrigerant",
+      "brazing supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 180,
+    "labour_rate": 120,
+    "total_price": 540
+  },
+  {
+    "id": "040",
+    "name": "Refrigerant Recharge - Fujitsu",
+    "description": "Top up refrigerant gas on Fujitsu air conditioning system",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "refrigerant R32/R410A"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 120,
+    "labour_rate": 110,
+    "total_price": 285
+  },
+  {
+    "id": "041",
+    "name": "Thermostat Replacement - Fujitsu",
+    "description": "Replace faulty wall controller or thermostat for Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "thermostat/controller"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 220,
+    "labour_rate": 100,
+    "total_price": 320
+  },
+  {
+    "id": "042",
+    "name": "Drainage Repair - Fujitsu",
+    "description": "Clear blocked condensate drain and repair drainage on Fujitsu unit",
+    "brand": "Fujitsu",
+    "category": "repair",
+    "parts": [
+      "drain fittings",
+      "PVC pipe"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 35,
+    "labour_rate": 100,
+    "total_price": 185
+  },
+  {
+    "id": "043",
+    "name": "Split System Replacement - Fujitsu",
+    "description": "Remove old unit and replace with new Fujitsu split system",
+    "brand": "Fujitsu",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 6,
+    "parts_cost": 2000,
+    "labour_rate": 115,
+    "total_price": 2690
+  },
+  {
+    "id": "044",
+    "name": "Ducted System Replacement - Fujitsu",
+    "description": "Remove and replace entire Fujitsu ducted system including ductwork",
+    "brand": "Fujitsu",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "ductwork",
+      "grilles"
+    ],
+    "estimated_hours": 16,
+    "parts_cost": 6000,
+    "labour_rate": 125,
+    "total_price": 8000
+  },
+  {
+    "id": "045",
+    "name": "Outdoor Unit Replacement - Fujitsu",
+    "description": "Replace Fujitsu outdoor condenser unit only",
+    "brand": "Fujitsu",
+    "category": "replace",
+    "parts": [
+      "outdoor unit",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 1400,
+    "labour_rate": 120,
+    "total_price": 1880
+  },
+  {
+    "id": "046",
+    "name": "Annual Service - Fujitsu",
+    "description": "Full annual service and inspection of Fujitsu air conditioning system",
+    "brand": "Fujitsu",
+    "category": "maintenance",
+    "parts": [
+      "filter",
+      "cleaning supplies"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 30,
+    "labour_rate": 95,
+    "total_price": 173
+  },
+  {
+    "id": "047",
+    "name": "Deep Clean Service - Fujitsu",
+    "description": "Deep chemical clean of indoor and outdoor units for Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "maintenance",
+    "parts": [
+      "coil cleaner",
+      "sanitiser",
+      "filters"
+    ],
+    "estimated_hours": 2.5,
+    "parts_cost": 55,
+    "labour_rate": 100,
+    "total_price": 305
+  },
+  {
+    "id": "048",
+    "name": "Filter Replacement - Fujitsu",
+    "description": "Replace air filters on Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "maintenance",
+    "parts": [
+      "air filter"
+    ],
+    "estimated_hours": 0.5,
+    "parts_cost": 25,
+    "labour_rate": 90,
+    "total_price": 70
+  },
+  {
+    "id": "049",
+    "name": "Gas Top Up - Fujitsu",
+    "description": "Check and top up refrigerant levels on Fujitsu system",
+    "brand": "Fujitsu",
+    "category": "maintenance",
+    "parts": [
+      "refrigerant"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 80,
+    "labour_rate": 100,
+    "total_price": 180
+  },
+  {
+    "id": "050",
+    "name": "Duct Cleaning - Fujitsu",
+    "description": "Professional clean of ductwork for Fujitsu ducted system",
+    "brand": "Fujitsu",
+    "category": "maintenance",
+    "parts": [
+      "cleaning supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 40,
+    "labour_rate": 100,
+    "total_price": 340
+  },
+  {
+    "id": "051",
+    "name": "Pre-Purchase Inspection - Fujitsu",
+    "description": "Comprehensive inspection of existing Fujitsu system for property purchase",
+    "brand": "Fujitsu",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1.5,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 143
+  },
+  {
+    "id": "052",
+    "name": "Diagnostic Inspection - Fujitsu",
+    "description": "Fault finding and diagnostic assessment of Fujitsu system not working",
+    "brand": "Fujitsu",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 110,
+    "total_price": 110
+  },
+  {
+    "id": "053",
+    "name": "Warranty Inspection - Fujitsu",
+    "description": "Inspection under Fujitsu manufacturer warranty claim",
+    "brand": "Fujitsu",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 95
+  },
+  {
+    "id": "054",
+    "name": "Compliance Check - Fujitsu",
+    "description": "Safety and compliance inspection of Fujitsu installation",
+    "brand": "Fujitsu",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 100,
+    "total_price": 100
+  },
+  {
+    "id": "055",
+    "name": "Split System Install - Actron",
+    "description": "Supply and install Actron split system air conditioner",
+    "brand": "Actron",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 5,
+    "parts_cost": 1800,
+    "labour_rate": 110,
+    "total_price": 2350
+  },
+  {
+    "id": "056",
+    "name": "Ducted System Install - Actron",
+    "description": "Supply and install Actron ducted reverse cycle system",
+    "brand": "Actron",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "ductwork",
+      "grilles",
+      "thermostat"
+    ],
+    "estimated_hours": 12,
+    "parts_cost": 5500,
+    "labour_rate": 120,
+    "total_price": 6940
+  },
+  {
+    "id": "057",
+    "name": "Multi-Split System Install - Actron",
+    "description": "Supply and install Actron multi-split system with 2 indoor heads",
+    "brand": "Actron",
+    "category": "install",
+    "parts": [
+      "2x indoor units",
+      "outdoor unit",
+      "piping kit",
+      "brackets"
+    ],
+    "estimated_hours": 8,
+    "parts_cost": 3200,
+    "labour_rate": 115,
+    "total_price": 4120
+  },
+  {
+    "id": "058",
+    "name": "Cassette Unit Install - Actron",
+    "description": "Supply and install Actron ceiling cassette unit",
+    "brand": "Actron",
+    "category": "install",
+    "parts": [
+      "cassette unit",
+      "outdoor unit",
+      "ceiling frame",
+      "piping"
+    ],
+    "estimated_hours": 7,
+    "parts_cost": 2800,
+    "labour_rate": 120,
+    "total_price": 3640
+  },
+  {
+    "id": "059",
+    "name": "Wall Mounted Unit Install - Actron",
+    "description": "Install customer-supplied Actron wall mounted unit",
+    "brand": "Actron",
+    "category": "install",
+    "parts": [
+      "piping kit",
+      "bracket",
+      "electrical"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 250,
+    "labour_rate": 110,
+    "total_price": 690
+  },
+  {
+    "id": "060",
+    "name": "Compressor Replacement - Actron",
+    "description": "Replace faulty compressor on Actron system",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "compressor",
+      "refrigerant",
+      "filter drier"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 950,
+    "labour_rate": 130,
+    "total_price": 1470
+  },
+  {
+    "id": "061",
+    "name": "Condenser Coil Replacement - Actron",
+    "description": "Replace corroded or damaged condenser coil on Actron outdoor unit",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "condenser coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 650,
+    "labour_rate": 120,
+    "total_price": 1010
+  },
+  {
+    "id": "062",
+    "name": "Evaporator Coil Replacement - Actron",
+    "description": "Replace leaking evaporator coil on Actron indoor unit",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "evaporator coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 700,
+    "labour_rate": 120,
+    "total_price": 1180
+  },
+  {
+    "id": "063",
+    "name": "PCB Board Replacement - Actron",
+    "description": "Replace faulty control board on Actron unit",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "PCB board"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 380,
+    "labour_rate": 110,
+    "total_price": 545
+  },
+  {
+    "id": "064",
+    "name": "Fan Motor Replacement - Actron",
+    "description": "Replace indoor or outdoor fan motor on Actron system",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "fan motor",
+      "capacitor"
+    ],
+    "estimated_hours": 2,
+    "parts_cost": 280,
+    "labour_rate": 110,
+    "total_price": 500
+  },
+  {
+    "id": "065",
+    "name": "Capacitor Replacement - Actron",
+    "description": "Replace run or start capacitor on Actron outdoor unit",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "capacitor"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 45,
+    "labour_rate": 100,
+    "total_price": 145
+  },
+  {
+    "id": "066",
+    "name": "Refrigerant Leak Repair - Actron",
+    "description": "Locate and repair refrigerant leak on Actron system",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "refrigerant",
+      "brazing supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 180,
+    "labour_rate": 120,
+    "total_price": 540
+  },
+  {
+    "id": "067",
+    "name": "Refrigerant Recharge - Actron",
+    "description": "Top up refrigerant gas on Actron air conditioning system",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "refrigerant R32/R410A"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 120,
+    "labour_rate": 110,
+    "total_price": 285
+  },
+  {
+    "id": "068",
+    "name": "Thermostat Replacement - Actron",
+    "description": "Replace faulty wall controller or thermostat for Actron system",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "thermostat/controller"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 220,
+    "labour_rate": 100,
+    "total_price": 320
+  },
+  {
+    "id": "069",
+    "name": "Drainage Repair - Actron",
+    "description": "Clear blocked condensate drain and repair drainage on Actron unit",
+    "brand": "Actron",
+    "category": "repair",
+    "parts": [
+      "drain fittings",
+      "PVC pipe"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 35,
+    "labour_rate": 100,
+    "total_price": 185
+  },
+  {
+    "id": "070",
+    "name": "Split System Replacement - Actron",
+    "description": "Remove old unit and replace with new Actron split system",
+    "brand": "Actron",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 6,
+    "parts_cost": 2000,
+    "labour_rate": 115,
+    "total_price": 2690
+  },
+  {
+    "id": "071",
+    "name": "Ducted System Replacement - Actron",
+    "description": "Remove and replace entire Actron ducted system including ductwork",
+    "brand": "Actron",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "ductwork",
+      "grilles"
+    ],
+    "estimated_hours": 16,
+    "parts_cost": 6000,
+    "labour_rate": 125,
+    "total_price": 8000
+  },
+  {
+    "id": "072",
+    "name": "Outdoor Unit Replacement - Actron",
+    "description": "Replace Actron outdoor condenser unit only",
+    "brand": "Actron",
+    "category": "replace",
+    "parts": [
+      "outdoor unit",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 1400,
+    "labour_rate": 120,
+    "total_price": 1880
+  },
+  {
+    "id": "073",
+    "name": "Annual Service - Actron",
+    "description": "Full annual service and inspection of Actron air conditioning system",
+    "brand": "Actron",
+    "category": "maintenance",
+    "parts": [
+      "filter",
+      "cleaning supplies"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 30,
+    "labour_rate": 95,
+    "total_price": 173
+  },
+  {
+    "id": "074",
+    "name": "Deep Clean Service - Actron",
+    "description": "Deep chemical clean of indoor and outdoor units for Actron system",
+    "brand": "Actron",
+    "category": "maintenance",
+    "parts": [
+      "coil cleaner",
+      "sanitiser",
+      "filters"
+    ],
+    "estimated_hours": 2.5,
+    "parts_cost": 55,
+    "labour_rate": 100,
+    "total_price": 305
+  },
+  {
+    "id": "075",
+    "name": "Filter Replacement - Actron",
+    "description": "Replace air filters on Actron system",
+    "brand": "Actron",
+    "category": "maintenance",
+    "parts": [
+      "air filter"
+    ],
+    "estimated_hours": 0.5,
+    "parts_cost": 25,
+    "labour_rate": 90,
+    "total_price": 70
+  },
+  {
+    "id": "076",
+    "name": "Gas Top Up - Actron",
+    "description": "Check and top up refrigerant levels on Actron system",
+    "brand": "Actron",
+    "category": "maintenance",
+    "parts": [
+      "refrigerant"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 80,
+    "labour_rate": 100,
+    "total_price": 180
+  },
+  {
+    "id": "077",
+    "name": "Duct Cleaning - Actron",
+    "description": "Professional clean of ductwork for Actron ducted system",
+    "brand": "Actron",
+    "category": "maintenance",
+    "parts": [
+      "cleaning supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 40,
+    "labour_rate": 100,
+    "total_price": 340
+  },
+  {
+    "id": "078",
+    "name": "Pre-Purchase Inspection - Actron",
+    "description": "Comprehensive inspection of existing Actron system for property purchase",
+    "brand": "Actron",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1.5,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 143
+  },
+  {
+    "id": "079",
+    "name": "Diagnostic Inspection - Actron",
+    "description": "Fault finding and diagnostic assessment of Actron system not working",
+    "brand": "Actron",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 110,
+    "total_price": 110
+  },
+  {
+    "id": "080",
+    "name": "Warranty Inspection - Actron",
+    "description": "Inspection under Actron manufacturer warranty claim",
+    "brand": "Actron",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 95
+  },
+  {
+    "id": "081",
+    "name": "Compliance Check - Actron",
+    "description": "Safety and compliance inspection of Actron installation",
+    "brand": "Actron",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 100,
+    "total_price": 100
+  },
+  {
+    "id": "082",
+    "name": "Split System Install - Mitsubishi",
+    "description": "Supply and install Mitsubishi split system air conditioner",
+    "brand": "Mitsubishi",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 5,
+    "parts_cost": 1800,
+    "labour_rate": 110,
+    "total_price": 2350
+  },
+  {
+    "id": "083",
+    "name": "Ducted System Install - Mitsubishi",
+    "description": "Supply and install Mitsubishi ducted reverse cycle system",
+    "brand": "Mitsubishi",
+    "category": "install",
+    "parts": [
+      "indoor unit",
+      "outdoor unit",
+      "ductwork",
+      "grilles",
+      "thermostat"
+    ],
+    "estimated_hours": 12,
+    "parts_cost": 5500,
+    "labour_rate": 120,
+    "total_price": 6940
+  },
+  {
+    "id": "084",
+    "name": "Multi-Split System Install - Mitsubishi",
+    "description": "Supply and install Mitsubishi multi-split system with 2 indoor heads",
+    "brand": "Mitsubishi",
+    "category": "install",
+    "parts": [
+      "2x indoor units",
+      "outdoor unit",
+      "piping kit",
+      "brackets"
+    ],
+    "estimated_hours": 8,
+    "parts_cost": 3200,
+    "labour_rate": 115,
+    "total_price": 4120
+  },
+  {
+    "id": "085",
+    "name": "Cassette Unit Install - Mitsubishi",
+    "description": "Supply and install Mitsubishi ceiling cassette unit",
+    "brand": "Mitsubishi",
+    "category": "install",
+    "parts": [
+      "cassette unit",
+      "outdoor unit",
+      "ceiling frame",
+      "piping"
+    ],
+    "estimated_hours": 7,
+    "parts_cost": 2800,
+    "labour_rate": 120,
+    "total_price": 3640
+  },
+  {
+    "id": "086",
+    "name": "Wall Mounted Unit Install - Mitsubishi",
+    "description": "Install customer-supplied Mitsubishi wall mounted unit",
+    "brand": "Mitsubishi",
+    "category": "install",
+    "parts": [
+      "piping kit",
+      "bracket",
+      "electrical"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 250,
+    "labour_rate": 110,
+    "total_price": 690
+  },
+  {
+    "id": "087",
+    "name": "Compressor Replacement - Mitsubishi",
+    "description": "Replace faulty compressor on Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "compressor",
+      "refrigerant",
+      "filter drier"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 950,
+    "labour_rate": 130,
+    "total_price": 1470
+  },
+  {
+    "id": "088",
+    "name": "Condenser Coil Replacement - Mitsubishi",
+    "description": "Replace corroded or damaged condenser coil on Mitsubishi outdoor unit",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "condenser coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 650,
+    "labour_rate": 120,
+    "total_price": 1010
+  },
+  {
+    "id": "089",
+    "name": "Evaporator Coil Replacement - Mitsubishi",
+    "description": "Replace leaking evaporator coil on Mitsubishi indoor unit",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "evaporator coil",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 700,
+    "labour_rate": 120,
+    "total_price": 1180
+  },
+  {
+    "id": "090",
+    "name": "PCB Board Replacement - Mitsubishi",
+    "description": "Replace faulty control board on Mitsubishi unit",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "PCB board"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 380,
+    "labour_rate": 110,
+    "total_price": 545
+  },
+  {
+    "id": "091",
+    "name": "Fan Motor Replacement - Mitsubishi",
+    "description": "Replace indoor or outdoor fan motor on Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "fan motor",
+      "capacitor"
+    ],
+    "estimated_hours": 2,
+    "parts_cost": 280,
+    "labour_rate": 110,
+    "total_price": 500
+  },
+  {
+    "id": "092",
+    "name": "Capacitor Replacement - Mitsubishi",
+    "description": "Replace run or start capacitor on Mitsubishi outdoor unit",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "capacitor"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 45,
+    "labour_rate": 100,
+    "total_price": 145
+  },
+  {
+    "id": "093",
+    "name": "Refrigerant Leak Repair - Mitsubishi",
+    "description": "Locate and repair refrigerant leak on Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "refrigerant",
+      "brazing supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 180,
+    "labour_rate": 120,
+    "total_price": 540
+  },
+  {
+    "id": "094",
+    "name": "Refrigerant Recharge - Mitsubishi",
+    "description": "Top up refrigerant gas on Mitsubishi air conditioning system",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "refrigerant R32/R410A"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 120,
+    "labour_rate": 110,
+    "total_price": 285
+  },
+  {
+    "id": "095",
+    "name": "Thermostat Replacement - Mitsubishi",
+    "description": "Replace faulty wall controller or thermostat for Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "thermostat/controller"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 220,
+    "labour_rate": 100,
+    "total_price": 320
+  },
+  {
+    "id": "096",
+    "name": "Drainage Repair - Mitsubishi",
+    "description": "Clear blocked condensate drain and repair drainage on Mitsubishi unit",
+    "brand": "Mitsubishi",
+    "category": "repair",
+    "parts": [
+      "drain fittings",
+      "PVC pipe"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 35,
+    "labour_rate": 100,
+    "total_price": 185
+  },
+  {
+    "id": "097",
+    "name": "Split System Replacement - Mitsubishi",
+    "description": "Remove old unit and replace with new Mitsubishi split system",
+    "brand": "Mitsubishi",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "piping kit",
+      "bracket"
+    ],
+    "estimated_hours": 6,
+    "parts_cost": 2000,
+    "labour_rate": 115,
+    "total_price": 2690
+  },
+  {
+    "id": "098",
+    "name": "Ducted System Replacement - Mitsubishi",
+    "description": "Remove and replace entire Mitsubishi ducted system including ductwork",
+    "brand": "Mitsubishi",
+    "category": "replace",
+    "parts": [
+      "new indoor unit",
+      "new outdoor unit",
+      "ductwork",
+      "grilles"
+    ],
+    "estimated_hours": 16,
+    "parts_cost": 6000,
+    "labour_rate": 125,
+    "total_price": 8000
+  },
+  {
+    "id": "099",
+    "name": "Outdoor Unit Replacement - Mitsubishi",
+    "description": "Replace Mitsubishi outdoor condenser unit only",
+    "brand": "Mitsubishi",
+    "category": "replace",
+    "parts": [
+      "outdoor unit",
+      "refrigerant"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 1400,
+    "labour_rate": 120,
+    "total_price": 1880
+  },
+  {
+    "id": "100",
+    "name": "Annual Service - Mitsubishi",
+    "description": "Full annual service and inspection of Mitsubishi air conditioning system",
+    "brand": "Mitsubishi",
+    "category": "maintenance",
+    "parts": [
+      "filter",
+      "cleaning supplies"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 30,
+    "labour_rate": 95,
+    "total_price": 173
+  },
+  {
+    "id": "101",
+    "name": "Deep Clean Service - Mitsubishi",
+    "description": "Deep chemical clean of indoor and outdoor units for Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "maintenance",
+    "parts": [
+      "coil cleaner",
+      "sanitiser",
+      "filters"
+    ],
+    "estimated_hours": 2.5,
+    "parts_cost": 55,
+    "labour_rate": 100,
+    "total_price": 305
+  },
+  {
+    "id": "102",
+    "name": "Filter Replacement - Mitsubishi",
+    "description": "Replace air filters on Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "maintenance",
+    "parts": [
+      "air filter"
+    ],
+    "estimated_hours": 0.5,
+    "parts_cost": 25,
+    "labour_rate": 90,
+    "total_price": 70
+  },
+  {
+    "id": "103",
+    "name": "Gas Top Up - Mitsubishi",
+    "description": "Check and top up refrigerant levels on Mitsubishi system",
+    "brand": "Mitsubishi",
+    "category": "maintenance",
+    "parts": [
+      "refrigerant"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 80,
+    "labour_rate": 100,
+    "total_price": 180
+  },
+  {
+    "id": "104",
+    "name": "Duct Cleaning - Mitsubishi",
+    "description": "Professional clean of ductwork for Mitsubishi ducted system",
+    "brand": "Mitsubishi",
+    "category": "maintenance",
+    "parts": [
+      "cleaning supplies"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 40,
+    "labour_rate": 100,
+    "total_price": 340
+  },
+  {
+    "id": "105",
+    "name": "Pre-Purchase Inspection - Mitsubishi",
+    "description": "Comprehensive inspection of existing Mitsubishi system for property purchase",
+    "brand": "Mitsubishi",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1.5,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 143
+  },
+  {
+    "id": "106",
+    "name": "Diagnostic Inspection - Mitsubishi",
+    "description": "Fault finding and diagnostic assessment of Mitsubishi system not working",
+    "brand": "Mitsubishi",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 110,
+    "total_price": 110
+  },
+  {
+    "id": "107",
+    "name": "Warranty Inspection - Mitsubishi",
+    "description": "Inspection under Mitsubishi manufacturer warranty claim",
+    "brand": "Mitsubishi",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 95,
+    "total_price": 95
+  },
+  {
+    "id": "108",
+    "name": "Compliance Check - Mitsubishi",
+    "description": "Safety and compliance inspection of Mitsubishi installation",
+    "brand": "Mitsubishi",
+    "category": "inspection",
+    "parts": [],
+    "estimated_hours": 1,
+    "parts_cost": 0,
+    "labour_rate": 100,
+    "total_price": 100
+  },
+  {
+    "id": "109",
+    "name": "Electrical Isolation Switch Install",
+    "description": "Install isolation switch for outdoor AC unit",
+    "brand": "Generic",
+    "category": "install",
+    "parts": [
+      "isolation switch",
+      "cable",
+      "conduit"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 85,
+    "labour_rate": 100,
+    "total_price": 235
+  },
+  {
+    "id": "110",
+    "name": "Electrical Fault Repair",
+    "description": "Diagnose and repair electrical fault in AC system wiring",
+    "brand": "Generic",
+    "category": "repair",
+    "parts": [
+      "cable",
+      "connectors"
+    ],
+    "estimated_hours": 2,
+    "parts_cost": 40,
+    "labour_rate": 110,
+    "total_price": 260
+  },
+  {
+    "id": "111",
+    "name": "Condensate Pump Service",
+    "description": "Service and clean condensate pump",
+    "brand": "Generic",
+    "category": "maintenance",
+    "parts": [
+      "pump seal"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 20,
+    "labour_rate": 95,
+    "total_price": 115
+  },
+  {
+    "id": "112",
+    "name": "Smart Thermostat Install",
+    "description": "Install and configure smart WiFi thermostat",
+    "brand": "Generic",
+    "category": "install",
+    "parts": [
+      "smart thermostat"
+    ],
+    "estimated_hours": 1.5,
+    "parts_cost": 350,
+    "labour_rate": 100,
+    "total_price": 500
+  },
+  {
+    "id": "113",
+    "name": "Reversing Valve Replacement",
+    "description": "Replace faulty reversing valve on reverse cycle system",
+    "brand": "Generic",
+    "category": "repair",
+    "parts": [
+      "reversing valve",
+      "refrigerant"
+    ],
+    "estimated_hours": 3,
+    "parts_cost": 420,
+    "labour_rate": 125,
+    "total_price": 795
+  },
+  {
+    "id": "114",
+    "name": "UV Light Sanitiser Install",
+    "description": "Install UV-C germicidal light in indoor unit",
+    "brand": "Generic",
+    "category": "maintenance",
+    "parts": [
+      "UV light unit"
+    ],
+    "estimated_hours": 1,
+    "parts_cost": 280,
+    "labour_rate": 100,
+    "total_price": 380
+  },
+  {
+    "id": "115",
+    "name": "Zone Controller Install",
+    "description": "Install zone controller for ducted system",
+    "brand": "Generic",
+    "category": "install",
+    "parts": [
+      "zone controller",
+      "motorised dampers"
+    ],
+    "estimated_hours": 4,
+    "parts_cost": 1200,
+    "labour_rate": 115,
+    "total_price": 1660
+  },
+  {
+    "id": "116",
+    "name": "Expansion Valve Replacement",
+    "description": "Replace faulty expansion valve",
+    "brand": "Generic",
+    "category": "repair",
+    "parts": [
+      "expansion valve",
+      "refrigerant"
+    ],
+    "estimated_hours": 2.5,
+    "parts_cost": 320,
+    "labour_rate": 120,
+    "total_price": 620
+  }
+]
